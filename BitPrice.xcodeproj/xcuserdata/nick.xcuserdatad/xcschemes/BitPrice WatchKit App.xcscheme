@@ -5,6 +5,36 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "01695B3B1D9E323100AC97DB"
+               BuildableName = "BitPrice WatchKit App.app"
+               BlueprintName = "BitPrice WatchKit App"
+               ReferencedContainer = "container:BitPrice.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "01695B291D9E323000AC97DB"
+               BuildableName = "BitPrice.app"
+               BlueprintName = "BitPrice"
+               ReferencedContainer = "container:BitPrice.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -13,6 +43,15 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "01695B3B1D9E323100AC97DB"
+            BuildableName = "BitPrice WatchKit App.app"
+            BlueprintName = "BitPrice WatchKit App"
+            ReferencedContainer = "container:BitPrice.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -26,6 +65,27 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.carousel"
+         RemotePath = "/BitPrice WatchKit App">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "01695B3B1D9E323100AC97DB"
+            BuildableName = "BitPrice WatchKit App.app"
+            BlueprintName = "BitPrice WatchKit App"
+            ReferencedContainer = "container:BitPrice.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "01695B3B1D9E323100AC97DB"
+            BuildableName = "BitPrice WatchKit App.app"
+            BlueprintName = "BitPrice WatchKit App"
+            ReferencedContainer = "container:BitPrice.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -35,6 +95,27 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.carousel"
+         RemotePath = "/BitPrice WatchKit App">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "01695B3B1D9E323100AC97DB"
+            BuildableName = "BitPrice WatchKit App.app"
+            BlueprintName = "BitPrice WatchKit App"
+            ReferencedContainer = "container:BitPrice.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "01695B3B1D9E323100AC97DB"
+            BuildableName = "BitPrice WatchKit App.app"
+            BlueprintName = "BitPrice WatchKit App"
+            ReferencedContainer = "container:BitPrice.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
